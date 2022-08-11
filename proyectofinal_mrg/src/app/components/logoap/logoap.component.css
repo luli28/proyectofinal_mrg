@@ -4,14 +4,15 @@
     align-items: center;
 }
 .redes{
-    margin-right: 5em;
+    margin-right: 3em;
     
 }
 .redes img{
     margin: 0.3em;
 }
 #logoap{
-    width: 150px;
+    width: 200px;
+    margin-left: 2em;
     
 }
 img{
@@ -33,6 +34,6 @@ img{
     align-items: center;
 }    
 .redes img{
-    margin: 0.3em;}
-  
+    margin: 0.5em;
+}
 }
