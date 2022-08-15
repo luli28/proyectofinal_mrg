@@ -25,15 +25,16 @@ img{
 
 /*---Celulares---*/
 @media (max-width: 575px){
-.container{
-    flex-direction: column;
-}
+    .container{
+        flex-direction: column;
+    }
 .redes{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }    
 .redes img{
-    margin: 0.5em;
+    margin: 0.5em; 
 }
+
 }
